@@ -1,1 +1,2 @@
 # KNN-Classifier-with-ResNet101-Google-Net-Efficient-Net-feature-extractor
+This project combines K-Nearest Neighbors (KNN) classification with advanced deep learning feature extractors, including ResNet101, GoogleNet, and EfficientNet. The model leverages the powerful representations from these pre-trained networks to improve the accuracy and efficiency of image classification tasks, offering a hybrid approach that blends classical and deep learning techniques.
